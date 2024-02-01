@@ -1,0 +1,3 @@
+/Users/huyufeng/Desktop/CG/test/build/CMakeFiles/optimizer.dir
+/Users/huyufeng/Desktop/CG/test/build/CMakeFiles/edit_cache.dir
+/Users/huyufeng/Desktop/CG/test/build/CMakeFiles/rebuild_cache.dir

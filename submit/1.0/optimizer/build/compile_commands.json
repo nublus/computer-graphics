@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/huyufeng/Desktop/course/XJTU/3-1/CG/lib/1.0/optimizer/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DFMT_HEADER_ONLY -DSPDLOG_FMT_EXTERNAL -I/Users/huyufeng/Desktop/course/XJTU/3-1/CG/lib/1.0/optimizer/deps -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/optimizer.dir/main.cpp.o -c /Users/huyufeng/Desktop/course/XJTU/3-1/CG/lib/1.0/optimizer/main.cpp",
+  "file": "/Users/huyufeng/Desktop/course/XJTU/3-1/CG/lib/1.0/optimizer/main.cpp",
+  "output": "CMakeFiles/optimizer.dir/main.cpp.o"
+}
+]
